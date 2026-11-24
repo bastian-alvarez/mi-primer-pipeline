@@ -11,3 +11,5 @@ export function evaluarRiesgo(impacto, probabilidad) {
 }
 
 
+
+const pruebaInsegura = eval('2 + 2');
